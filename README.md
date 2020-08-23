@@ -1,4 +1,6 @@
 # Sudoku-AI
+Steps Overview:-
+
 Sudoku Solver Web app using Streamlit.
 Computer Vision is used to detect the boundaries of sudoku puzzle in image and also to detect the digits as well as position of digits in the puzzle.
 CNN is used to predict the detected digits in the puzzle.
