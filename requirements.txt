@@ -1,0 +1,6 @@
+numpy==1.18.5
+imutils==0.5.3
+opencv-python==4.1.2.30
+scikit-image==0.17.2
+tensorflow
+streamlit
